@@ -4,5 +4,5 @@ all ids were copied from https://fortnite.gg
 i hope this helps
 
 # MADE BY ZEN.CRIXT.DEV
-DISCORD - zen.crixy.dev
+DISCORD - @zen.crixy.dev     |     
 DISCORD SERVER - https://discord.gg/4crHpsh7qU
