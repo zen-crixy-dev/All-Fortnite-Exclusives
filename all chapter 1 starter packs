@@ -10,6 +10,7 @@ Source:	Packs
 Introduced in:	Season 3
 Release date:	Mar 27, 2018
 ID: Pack_CID_090_Athena_Commando_M_Tactical
+ID: BID_030_TacticalRogue
 
 
 Wingman Starter Pack
@@ -18,6 +19,7 @@ Source:	Packs
 Introduced in:	Season 4
 Release date:	Jun 13, 2018
 ID: Pack_CID_139_Athena_Commando_M_Fighterpilot
+ID: BID_056_FighterPilot
 
 
 Ace Pack
@@ -26,6 +28,7 @@ Source:	Packs
 Introduced in:	Season 5
 Release date:	Aug 28, 2018
 ID: Pack_CID_195_Athena_Commando_F_Bling
+ID: BID_101_BlingFemale
 
 
 Summit Striker
@@ -34,6 +37,7 @@ Source:	Packs
 Introduced in:	Season 6
 Release date:	Nov 7, 2018
 ID: Pack_CID_253_Athena_Commando_M_MilitaryFashion2
+ID: BID_134_MilitaryFashion
 
 
 Cobalt Pack
@@ -42,6 +46,7 @@ Source:	Packs
 Introduced in:	Season 7
 Release date:	Jan 30, 2019
 ID: Pack_CID_327_Athena_Commando_M_BlueMystery
+ID: BID_203_BlueMystery
 
 
 The Laguna Pack
@@ -50,6 +55,8 @@ Source:	Packs
 Introduced in:	Season 8
 Release date:	Mar 18, 2019
 ID: Pack_CID_367_Athena_Commando_F_Tropical
+ID: BID_231_TropicalFemale
+ID: Wrap_033_TropicalGirl
 
 
 The Wilde Pack
@@ -58,6 +65,7 @@ Source:	Packs
 Introduced in:	Season 9
 Release date:	Jun 4, 2019
 ID: Pack_CID_420_Athena_Commando_F_WhiteTiger
+ID: BID_277_WhiteTiger
 
 
 The Red Strike Pack
@@ -66,3 +74,5 @@ Source:	Packs
 Introduced in:	Season X
 Release date:	Aug 15, 2019
 ID: Pack_CID_384_Athena_Commando_M_StreetAssasin
+ID: BID_247_StreetAssassin
+ID: Pickaxe_ID_188_StreetAssassin
